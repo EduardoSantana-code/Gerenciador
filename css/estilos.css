@@ -175,3 +175,5 @@ form {
 .frm-linha button:hover {
     background: #3c3a3a;
 } 
+
+@media  screen and (max-widht:600px)
