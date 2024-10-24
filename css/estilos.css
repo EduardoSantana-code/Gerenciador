@@ -176,4 +176,23 @@ form {
     background: #3c3a3a;
 } 
 
-@media  screen and (max-widht:600px)
+@media screen and (max-width: 1330px) {
+  .topo {
+            display:none
+
+  }
+
+  .container {
+    width: 50%;
+
+  }
+
+  .conteudo {
+
+    width: 50%;
+  }
+
+
+
+}
+
