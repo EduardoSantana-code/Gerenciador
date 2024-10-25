@@ -176,13 +176,8 @@ form {
     background: #3c3a3a;
 } 
 
-@media screen and (max-width: 400px) {
-  .topo {
-            display:none
-
-  }
 
   
 
-}
+
 
