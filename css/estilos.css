@@ -176,7 +176,7 @@ form {
     background: #3c3a3a;
 } 
 
-@media screen and (max-width: 1330px) {
+@media screen and (max-width: 400px) {
   .topo {
             display:none
 
@@ -191,7 +191,10 @@ form {
 
     width: 50%;
   }
+  .topo input {
+  width: 50%;
 
+  }
 
 
 }
